@@ -1,2 +1,2 @@
 # AI4Kelp
-This is project for kelp detection AI. 
+This is project for kelp detection using AI. 
